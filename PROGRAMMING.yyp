@@ -38,6 +38,7 @@
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},},
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"GAMEOVER","path":"rooms/GAMEOVER/GAMEOVER.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
